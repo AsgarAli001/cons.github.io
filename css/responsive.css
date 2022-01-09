@@ -1,0 +1,670 @@
+@media  screen and (max-width: 767px) {
+  
+    header .header-top {
+        background-color: #353535;
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    header .header-top .header-top-right ul {
+        padding: 5px 0;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    header .header-top .header-top-right ul li.phone-item a {
+        font-size: 12px;
+        color: #fff;
+        text-align: center;
+        padding: 0 2em;
+    }
+    header .header-top .header-top-right ul li.phone-item a i {
+        color: #ffd200;
+        font-size: 12px;
+    }
+    header .header-top .header-top-right ul li.phone-item a span {
+        font-size: 12px;
+    }
+    header .header-bottom .header-logo {
+        height: 40px;
+    }
+    .header-bottom nav #navbarSupportedContent ul li a {
+        text-transform: uppercase;
+        color: #000;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        padding: 0 6px;
+        text-align: right;
+    }
+    .carousel-caption h2 {
+        background: #0099cb;
+        margin: 10px 0;
+        font-size: 16px;
+        padding: 6px 0;
+    }
+    .carousel-button a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 13px;
+        background: #286091;
+        padding: 8px 13px;
+        margin: 10px 0;
+    }
+    .carousel-caption {
+        height: 25vh;
+    }
+    .who-we-text.text-center h1 {
+        font-weight: 600;
+        font-size: 22px;
+        margin-top: 1em;
+    }
+    .who-we-text.text-center p.welcome-text {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .who-we-text.text-center p {
+        color: #616161;
+        font-size: 12px;
+        font-weight: 500;
+        /* border-bottom: 3px solid yellow; */
+        /* width: 103%; */
+    }
+    .template-section h1 {
+        color: #fff;
+        margin-bottom: 1em;
+        font-size: 22px;
+    }
+    .template-button a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 15px;
+        border: 2px solid #efa85a;
+        padding: 6px 12px;
+    }
+    .what-we-offer .title-tag h1 {
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .whatwe-text.text-center h5 {
+        font-size: 15px;
+    }
+    .whatwe-text.text-center p {
+        font-size: 11px;
+    }
+
+    .project-section .title-tag h1 {
+        font-size: 22px;
+        color: #fff;
+    }
+    .project-section .overlay-text h5 {
+        font-size: 18px;
+    }
+    .project-section .overlay-text p {
+        font-size: 12px;
+        padding: 0 1em;
+        margin: 20px 0;
+    }
+    .project-section .overlay-text {
+        background-color: #ecf5fede;
+        position: absolute;
+        top: 0;
+        left: 10px;
+        width: 94.3%;
+        z-index: 1;
+        height: 87%;
+        padding: 3em 0;
+        opacity: 1;
+    }
+    .team-section h1 {
+        font-size: 22px;
+    }
+    .team-section h1 {
+        font-size: 22px;
+        margin: 0;
+    }
+    .team-section .card.text-center {
+        box-shadow: 2px 4px 2px #bfbfbfd6;
+        margin-bottom: 1em;
+    }
+    .card-img img {
+        width: 100%;
+    }
+    .team-section .card-body .card-text h5 {
+        font-size: 16px;
+    }
+    .team-section .card-body .card-text p {
+        font-size: 12px;
+        margin: 0;
+    }
+    .testimonial-section .client p {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 400;
+        border: 2px solid #fff;
+        display: inline-block;
+        padding: 4px 10px;
+    }
+    #testimonial-carousel i {
+        font-size: 2em;
+        color: #d7a40d;
+        margin: 12px 0;
+    }
+    .testimonial-text.text-center img {
+        height: 70px;
+        width: 23%;
+        text-align: center;
+        margin: 0 auto;
+        border-radius: 100%;
+        padding: 0px;
+    }
+
+    .testimonial-text p {
+        font-size: 13px;
+        color: #fff;
+        margin: 10px 0;
+    }
+
+    .feedback button a {
+        color: #fff;
+        font-size: 14px;
+        border: 2px solid #fff;
+        padding: 3px 8px;
+        display: inline-block;
+        margin-top: 1em;
+        text-decoration: none;
+    }
+    .gallery-section h1 {
+        font-size: 22px;
+        margin: 0;
+    }
+    footer .footer-section h1 {
+        color: #fff;
+        font-size: 22px;
+        text-align: center;
+        margin: 0;
+    }
+    .contact-info a i {
+        font-size: 16px;
+        color: #fcaf00;
+        background: #fff;
+        padding: 10px 12px;
+        border-radius: 100%;
+    }
+    .contact-info ul li a span {
+        color: #fff;
+        text-decoration: none;
+        font-size: 12px;
+        line-height: 0px;
+    }
+    .contact-info {
+        margin-bottom: 2em;
+    }
+    input.form-control {
+        background: none;
+        border-radius: 0;
+        height: 2.5em;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .footer-form button {
+        background: #ffad00;
+        border: none;
+        color: #fff;
+        font-size: 14px;
+        padding: 6px 12px;
+        font-weight: 600;
+    }
+    textarea.textarea-control {
+        background: transparent;
+        border: 1px solid #ced4da;
+        height: 11rem;
+        font-size: 12px;
+        padding: 10px;
+        width: 100%;
+    }
+    p.footer-bottom-text {
+        color: #fff;
+        margin: 10px 0;
+        padding: 0;
+        font-family: 'Raleway';
+        font-size: 11px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .footer-bottom-icon {
+        text-align: center;
+    }
+    .footer-bottom-icon ul li a {
+        background: #feae00;
+        color: #fff;
+        text-decoration: none;
+        padding: 8px 14px;
+        border-radius: 10px;
+        font-size: 12px;
+    }
+    .testimonial-section {
+        padding: 2em 0;
+        background: url(../images/testimonial.jpg);
+        height: auto;
+    }
+    img.slider-img {
+        height:auto;
+    }
+    .contact-info ul li a span {
+        color: #fff;
+        text-decoration: none;
+        font-size: 8px;
+        line-height: 0px;
+    }
+    .contact-info ul li a span span.sub-info {
+        display: block;
+        position: absolute;
+        left: 92px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and  (min-width: 768px) and (max-width: 992px) {
+ 
+    header .header-top .header-top-left ul {
+        padding: 5px 0;
+        text-align: center;
+    }
+    header .header-top .header-top-right ul {
+        padding: 5px 0;
+        text-align: center;
+    }
+    
+    .header-bottom nav #navbarSupportedContent ul li a {
+    text-transform: uppercase;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0 6px;
+    }
+    .carousel-caption h2 {
+        background: #0099cb;
+        margin: 1em 0;
+        font-size: 21px;
+        padding: 6px 0;
+    }
+
+    .carousel-button a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 16px;
+        background: #286091;
+        padding: 10px 12px; 
+    }
+    .carousel-caption {
+        height: 32vh;
+    }
+
+    .who-we-text.text-center h1 {
+        font-weight: 600;
+        font-size: 27px;
+    }
+    .who-we-text.text-center p.welcome-text {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    .who-we-text.text-center p {
+        color: #616161;
+        font-size: 13px;
+        font-weight: 500;
+        /* border-bottom: 3px solid yellow; */
+        /* width: 103%; */
+    }
+    .template-section h1 {
+        color: #fff;
+        margin-bottom: 1em;
+        font-size: 27px;
+    }
+    .template-button a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 17px;
+        border: 2px solid #efa85a;
+        padding: 8px 12px;
+    }
+    .whatwe-text.text-center p {
+        font-size: 11px;
+    }
+    .whatwe-text.overlay.text-center h5 {
+        font-size: 17px;
+    }
+    .project-section .title-tag h1 {
+        font-size: 27px;
+        color: #fff;
+    }
+    .project-section .overlay-text {
+        background-color: #ecf5fede;
+        position: absolute;
+        top: 0;
+        left: 10px;
+        width: 91.5%;
+        z-index: 1;
+        height: 82%;
+        padding: 1em 0;
+        opacity: 1;
+    }
+    .project-section .overlay-text h5 {
+        font-size: 16px;
+    }
+    .project-section .overlay-text p {
+        font-size: 12px;
+        padding: 0 1em;
+        margin: 10px 0;
+    }
+    .team-section h1 {
+        font-size: 27px;
+    }
+    .team-section .card-body .card-text h5 {
+        font-size: 15px;
+    }
+    .team-section .card-body .card-text p {
+        font-size: 12px;
+        margin: 0;
+    }
+    
+.testimonial-section .client p {
+    color: #fff;
+    font-size: 19px;
+    font-weight: 400;
+    border: 2px solid #fff;
+    display: inline-block;
+    padding: 4px 10px;
+}
+
+.testimonial-section {
+    padding: 2em 0;
+    background: url(../images/testimonial.jpg);
+    height: auto;
+}
+
+#testimonial-carousel i {
+    font-size: 3em;
+    color: #d7a40d;
+    margin: 10px 0;
+}
+.testimonial-text p {
+    font-size: 16px;
+    color: #fff;
+    margin: 12px 0;
+}
+.feedback button a {
+    color: #fff;
+    font-size: 17px;
+    border: 2px solid #fff;
+    padding: 4px 10px;
+    display: inline-block;
+    margin-top: 1em;
+    text-decoration: none;
+}
+footer .footer-section h1 {
+    color: #fff;
+    font-size: 27px;
+    text-align: center;
+}
+.contact-info a i {
+    font-size: 18px;
+    color: #fcaf00;
+    background: #fff;
+    padding: 10px 12px;
+    border-radius: 100%;
+}
+input.form-control {
+    background: none;
+    border-radius: 0;
+    height: 3em;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.footer-form button {
+    background: #ffad00;
+    border: none;
+    color: #fff;
+    font-size: 13px;
+    padding: 6px 13px;
+    font-weight: 600;
+}
+textarea.textarea-control {
+    background: transparent;
+    border: 1px solid #ced4da;
+    height: 11rem;
+    font-size: 14px;
+    padding: 10px;
+    width: 100%;
+}
+p.footer-bottom-text {
+    color: #fff;
+    margin: 10px 0;
+    padding: 0;
+    font-family: 'Raleway';
+    font-size: 13px;
+    font-weight: 600;
+}
+.footer-bottom-icon ul li a {
+    background: #feae00;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 14px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+img.slider-img {
+    height:auto;
+}
+
+.contact-info ul li a span span.sub-info {
+    display: block;
+    position: relative;
+    left: 42px;
+}
+
+.contact-info ul li a span {
+    color: #fff;
+    text-decoration: none;
+    font-size: 8px;
+    line-height: 0px;
+}
+
+textarea.textarea-control {
+    background: transparent;
+    border: 1px solid #ced4da;
+    height: 10rem;
+    font-size: 14px;
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:993px) and (max-width:1099px) {
+    header .header-top .header-top-left ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 12px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+    }
+
+    
+.header-bottom nav #navbarSupportedContent ul li a {
+    text-transform: uppercase;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0 6px;
+}
+.carousel-caption h2 {
+    background: #0099cb;
+    margin: 1em 0;
+    font-size: 21px;
+    padding: 6px 0;
+}
+.carousel-caption {
+    height: 55vh;
+}
+.carousel-button a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    background: #286091;
+    padding: 10px 16px;
+}
+.who-we-text.text-center h1 {
+    font-weight: 600;
+    font-size: 30px;
+}
+.who-we-text.text-center p.welcome-text {
+    font-size: 17px;
+    margin-bottom: 1em;
+} 
+.template-section h1 {
+    color: #fff;
+    margin-bottom: 1em;
+    font-size: 30px;
+}
+.what-we-offer .title-tag h1 {
+    font-size: 30px;
+    font-weight: 500;
+}
+.project-section .title-tag h1 {
+    font-size: 30px;
+    color: #fff;
+}
+.project-section .overlay-text {
+    background-color: #ecf5fede;
+    position: absolute;
+    top: 0;
+    left: 10px;
+    width: 93.5%;
+    z-index: 1;
+    height: 86%;
+    padding: 3em 0;
+    opacity: 1;
+}
+.project-section .overlay-text h5 {
+    font-size: 19px;
+}
+.project-section .overlay-text p {
+    font-size: 13px;
+    padding: 0 1em;
+    margin: 20px 0;
+}
+.title-tag h1 {
+    font-size: 30px;
+    margin: 0;
+}
+.testimonial-text p {
+    font-size: 18px;
+    color: #fff;
+    margin: 14px 0;
+}
+
+.testimonial-section {
+    padding: 2em 0;
+    background: url(../images/testimonial.jpg);
+    height: auto;
+}
+footer .footer-section h1 {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+}
+.contact-info a i {
+    font-size: 20px;
+    color: #fcaf00;
+    background: #fff;
+    padding: 10px 13px;
+    border-radius: 100%;
+}
+p.footer-bottom-text {
+    color: #fff;
+    margin: 10px 0;
+    padding: 0;
+    font-family: 'Raleway';
+    font-size: 12px;
+    font-weight: 600;
+}
+.footer-bottom-icon ul li a {
+    background: #feae00;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 14px;
+    border-radius: 10px;
+    font-size: 13px;
+}
+
+img.slider-img {
+    height:auto;
+}
+}
